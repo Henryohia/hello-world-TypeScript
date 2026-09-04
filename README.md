@@ -18,11 +18,8 @@ The purpose of creating this software is to learn the basic process of creating,
 I used Visual Studio Code (VS Code) as my code editor and Node.js to run the JavaScript file generated from the TypeScript code. I also used the TypeScript compiler (tsc) to compile the TypeScript program into JavaScript. I used the VS Code terminal to create, compile, and run the program.
 
 I used TypeScript, a strongly typed programming language that is built on JavaScript. TypeScript allows developers to define data types and identify errors during development. For this project, I used TypeScript to create a simple program that prints “Hello World” to the screen.
-# Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+# Useful Websites
 
 * Typescript official site: https://www.typescriptlang.org/docs/handbook/intro.html
 * Youtube TypeScript Tutorial https://www.youtube.com/watch?v=hcuKd-Q_tP8
